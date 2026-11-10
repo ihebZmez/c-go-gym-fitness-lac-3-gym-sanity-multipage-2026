@@ -7,8 +7,8 @@ export default function PersonalTrainingPage() {
   return (
     <div className="pt-24">
       <Seo
-        title="Coaching personnel | Samurai Nouvelle Madina"
-        description="Profitez d'un coaching personnel personnalisé à Samurai Nouvelle Madina pour perdre du poids, prendre du muscle et améliorer votre forme."
+        title="Coaching personnel | CMG Club Sports Mourouj"
+        description="Profitez d'un coaching personnel personnalisé à CMG Club Sports à Mourouj pour perdre du poids, prendre du muscle et améliorer votre forme."
         canonical="/coaching-personnel"
       />
       <PersonalTraining />

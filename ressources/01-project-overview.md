@@ -1,6 +1,6 @@
 # 01 — Project Overview
 
-## Samurai Nouvelle Madina
+## CMG Club Sports
 
 Premium multi-page website for a Tunisian gym & sports club.
 

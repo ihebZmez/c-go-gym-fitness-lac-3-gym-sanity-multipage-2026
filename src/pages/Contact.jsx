@@ -95,8 +95,8 @@ const ContactPage = () => {
       className="min-h-screen pt-8 pb-20 px-4 md:px-8 bg-gym-bg"
     >
       <Seo
-        title="Contact & réservation | Samurai Nouvelle Madina"
-        description="Contactez Samurai Nouvelle Madina pour réserver votre séance d'essai, obtenir un devis ou prendre rendez-vous avec nos coachs."
+        title="Contact & réservation | CMG Club Sports Mourouj"
+        description="Contactez CMG Club Sports à Mourouj pour réserver votre séance d'essai, obtenir un devis ou prendre rendez-vous avec nos coachs."
         canonical="/contact"
       />
       <div className="max-w-7xl mx-auto">

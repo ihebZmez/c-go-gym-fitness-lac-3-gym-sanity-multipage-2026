@@ -2,11 +2,11 @@ import { Helmet } from "react-helmet-async";
 import { gymConfig } from "../../config/gymConfig";
 
 const defaultTitle =
-  "Samurai Nouvelle Madina | Salle de sport & fitness à Mourouj, Tunis";
+  "CMG Club Sports | Club Med Gym | Salle de sport, musculation & fitness à Mourouj et Ben Arous";
 const defaultDescription =
-  "Samurai Nouvelle Madina est votre salle de sport premium à Mourouj, Tunis : musculation, cardio, coaching personnel, cours collectifs, coaching sportif et séance d'essai gratuite.";
+  "CMG Club Sports, aussi connu sous le nom de Club Med Gym, est une salle de sport à Mourouj et Ben Arous spécialisée en musculation, fitness, cardio, coaching personnel et cours collectifs en Tunisie.";
 const defaultKeywords =
-  "salle de sport Mourouj, gym Tunis, fitness Tunis, musculation Mourouj, coaching personnel Tunis, cours collectifs Tunis, Samurai Nouvelle Madina";
+  "CMG Club Sports, Club Med Gym, salle de sport Mourouj, salle de musculation Mourouj, salle de sport Ben Arous, salle de musculation Ben Arous, fitness Mourouj, fitness Ben Arous, club de sport Mourouj, salle de sport près de moi, salle de sport Tunis";
 
 const Seo = ({
   title = defaultTitle,
@@ -30,10 +30,7 @@ const Seo = ({
         }
       />
       <meta name="theme-color" content={gymConfig.accentColor} />
-      <meta
-        name="apple-mobile-web-app-title"
-        content="Samurai Nouvelle Madina"
-      />
+      <meta name="apple-mobile-web-app-title" content="CMG Club Sports" />
       <link rel="canonical" href={canonicalUrl} />
       <link rel="alternate" href={`${gymConfig.siteUrl}/`} hreflang="fr" />
       <link
@@ -48,7 +45,7 @@ const Seo = ({
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
       <meta property="og:image" content={image} />
-      <meta property="og:site_name" content="Samurai Nouvelle Madina" />
+      <meta property="og:site_name" content="CMG Club Sports" />
       <meta property="og:locale" content="fr_TN" />
 
       <meta name="twitter:card" content="summary_large_image" />

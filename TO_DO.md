@@ -1,6 +1,6 @@
-# Samurai Nouvelle Madina — SEO Audit Report
+# CMG Club Sports — SEO Audit Report
 
-**Site:** samurai-nouvelle-madina.vercel.app
+**Site:** cmg-club-sports.vercel.app
 **Date:** 2026-09-21
 
 ---
@@ -67,16 +67,16 @@
 
 ## 📝 Current Meta
 
-| Field            | Value                                                                                                                                                                                                                     |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| URL              | `samurai-nouvelle-madina.vercel.app`                                                                                                                                                                                      |
-| Title            | `Samurai Nouvelle Madina \| Salle de sport & fitness à Mourouj, Tunis`                                                                                                                                                    |
-| Meta Description | `Samurai Nouvelle Madina, votre salle de sport premium à Mourouj, Tunis. Musculation, cardio, coaching personnel, cours collectifs (Zumba, Boxing, Yoga). Équipements Technogym. Réservez votre séance d'essai gratuite.` |
-| Canonical        | `https://samurai-nouvelle-madina.vercel.app/`                                                                                                                                                                             |
-| Sitemap          | `https://samurai-nouvelle-madina.vercel.app/sitemap.xml`                                                                                                                                                                  |
-| Robots           | `https://samurai-nouvelle-madina.vercel.app/robots.txt`                                                                                                                                                                   |
+| Field            | Value                                                                                                                                                                                                             |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| URL              | `cmg-club-sports.vercel.app`                                                                                                                                                                                      |
+| Title            | `CMG club sports \| Salle de sport & fitness à Mourouj, Tunis`                                                                                                                                                    |
+| Meta Description | `CMG club sports, votre salle de sport premium à Mourouj, Tunis. Musculation, cardio, coaching personnel, cours collectifs (Zumba, Boxing, Yoga). Équipements Technogym. Réservez votre séance d'essai gratuite.` |
+| Canonical        | `https://cmg-club-sport.vercel.app/`                                                                                                                                                                              |
+| Sitemap          | `https://cmg-club-sport.vercel.app/sitemap.xml`                                                                                                                                                                   |
+| Robots           | `https://cmg-club-sports.vercel.app/robots.txt`                                                                                                                                                                   |
 
-> ⚠️ Note: canonical uses `samurai-nouvelle-madina` (singular) while the site is `samurai-nouvelle-madina` (plural) — verify which is correct.
+> ⚠️ Note: canonical uses `cmg-club-sport` (singular) while the site is `cmg-club-sports` (plural) — verify which is correct.
 
 ---
 

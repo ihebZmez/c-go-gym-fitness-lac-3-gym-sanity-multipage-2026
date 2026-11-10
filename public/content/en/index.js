@@ -115,15 +115,12 @@ const gymBenefits = [
 
 // Club Info
 const clubInfo = {
-  heading: "Visitez Samurai Nouvelle Madina et découvrez nos espaces",
-  address: "Samurai Nouvelle Madina, Tunis, Tunisie",
-  contact: {
-    phone: "(+216) 53 85 31 55",
-    email: "contact@samurainodevillamadina.tn",
-  },
+  heading: "Visitez CMG Club Sports",
+  address: "CMG Club Sports, Tunis, Tunisie",
+  contact: { phone: "(+216) 53 85 31 55", email: "contact@cmg-clubsport.tn" },
 };
 
-// Club Hours (Updated to match Samurai Nouvelle Madina)
+// Club Hours (Updated to match CMG Club Sports)
 const clubHours = [
   { day: "Lun–Ven", time: "07:00 – 22:00" },
   { day: "Samedi", time: "07:00 – 18:00" },
@@ -135,12 +132,12 @@ const socials = [
   {
     name: "Instagram",
     icon: "/images/insta.png",
-    url: "https://instagram.com/samurainodevillamadina",
+    url: "https://instagram.com/cmgclubsport",
   },
   {
     name: "Facebook",
     icon: "/images/fb.png",
-    url: "https://facebook.com/samurainodevillamadina",
+    url: "https://facebook.com/cmgclubsport",
   },
 ];
 
@@ -164,7 +161,7 @@ const featuredEquipment = [
     image: "/images/equipment2.png",
     title: "Repoussez vos limites",
     description:
-      "Samurai Nouvelle Madina compte parmi les salles les mieux équipées au monde pour la force.",
+      "CMG Club Sports compte parmi les salles les mieux équipées au monde pour la force.",
     skill: "Tous niveaux",
     carbon: "Puissance",
     shape: "Intensité",

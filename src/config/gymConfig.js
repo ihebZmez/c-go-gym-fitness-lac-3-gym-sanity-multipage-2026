@@ -2,29 +2,29 @@
 // All configurable values are defined here for easy maintenance
 
 export const gymConfig = {
-  name: "Samurai",
+  name: "CMG Club Sports",
   tagline: "L'excellence du sport tunisien",
-  siteUrl: "https://Samurai.vercel.app",
+  siteUrl: "https://cmg-club-sports.vercel.app",
 
   // Contact
-  phone: "+216 XX XX XX XX",
-  whatsapp: "+216 XX XX XX XX",
-  email: "contact@samurai.tn",
+  phone: "+216 53 85 31 55",
+  whatsapp: "+216 53 85 31 55",
+  email: "contact@cmg-clubsport.tn",
   address: "Tunis, Tunisie",
 
   // Social Media
   social: {
-    facebook: "https://facebook.com/Samurai",
-    instagram: "https://instagram.com/Samurai",
-    youtube: "https://youtube.com/Samurai",
-    tiktok: "https://tiktok.com/@Samurai",
-    linkedin: "https://linkedin.com/company/Samurai",
+    facebook: "https://facebook.com/cmgclubsport",
+    instagram: "https://instagram.com/cmgclubsport",
+    youtube: "https://youtube.com/cmgclubsport",
+    tiktok: "https://tiktok.com/@cmgclubsport",
+    linkedin: "https://linkedin.com/company/cmgclubsport",
   },
 
-  // Brand — RED & WHITE
-  accentColor: "#E11D2E",
-  accentColorLight: "#FF3B4E",
-  accentColorDark: "#B01020",
+  // Brand
+  accentColor: "#FF5533",
+  accentColorLight: "#FF5533",
+  accentColorDark: "#CC4422",
 
   // Hero
   heroVideo: "/videos/gym-hero.mp4",
@@ -39,8 +39,10 @@ export const gymConfig = {
 
   // WhatsApp default messages
   whatsappMessages: {
-    default: "Bonjour, je souhaite avoir plus d'informations sur Samurai.",
-    trial: "Bonjour, je souhaite réserver une séance d'essai à Samurai.",
+    default:
+      "Bonjour, je souhaite avoir plus d'informations sur CMG Club Sports.",
+    trial:
+      "Bonjour, je souhaite réserver une séance d'essai à CMG Club Sports.",
     pricing:
       "Bonjour, je souhaite avoir plus d'informations sur les abonnements.",
   },

@@ -212,7 +212,7 @@ const Promotions = () => {
           badge="Offres du moment"
           title="Profitez de nos"
           highlight="Promotions"
-          subtitle="Des offres exclusives pour rejoindre Samurai Nouvelle Madina"
+          subtitle="Des offres exclusives pour rejoindre CMG club sports"
           number="00"
         />
 

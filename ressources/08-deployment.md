@@ -7,17 +7,17 @@
 3. Environment variables:
    - `VITE_SANITY_PROJECT_ID`
    - `VITE_SANITY_DATASET=production`
-4. Deploy → get URL like `https://samurai-nouvelle-madina.vercel.app`
+4. Deploy → get URL like `https://cmg-club-sports.vercel.app`
 5. Add URL to **Sanity CORS Origins** (allow credentials)
 
 ## Studio — Sanity Hosting
 
 ```bash
-cd samurai-nouvelle-madina
+cd cmg-club-sports
 npx sanity deploy
 ```
 
-Result: https://samurai-nouvelle-madina.sanity.studio
+Result: https://cmg-club-sports.sanity.studio
 
 Client Access
 sanity.io/manage → your project → Members
